@@ -20,3 +20,13 @@ CSV Order:
 3. wine-production.csv
 4. merge_data.csv
 5. country_data_df.csv
+
+Project Analysis
+## Does climate change affect global wine production?
+
+## Is there a correlation between rising temperatures and its effect on wine production?
+
+## Is there a correlation between rising temperatures and the creation of new wine industries in regions previously unfit for wine production?
+
+## Which geographical regions can expect to see an increase in wine production and which regions can expect to see a decrease in wine production given the expected rise in temperature?
+
